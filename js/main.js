@@ -317,7 +317,7 @@ color: rgb(244,167,89);
 var styleContent = `
 color: rgb(30,152,255);
 `
-var title1 = '無名の主页'
+var title1 = 'Fantianyu’s Blog'
 var title2 = `
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
@@ -328,7 +328,7 @@ var title2 = `
 `
 var content = `
 版 本 号：2.2
-更新日期：2022-04-12
+更新日期：2022-05-25
 
 更新说明：
 1. 新增 壁纸个性化设置
@@ -337,8 +337,7 @@ var content = `
 4. 优化 页面加载缓慢
 5. 优化 音乐延迟加载
 
-主页:  https://www.imsyy.top
-Github:  https://github.com/imsyy/home
+主页:  https://www.godyu.top
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
